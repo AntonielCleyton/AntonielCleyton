@@ -1,4 +1,6 @@
-<h1>  Hi there, my name is Antoniel 👋 </h1>
+<div align="center">
+  <h1>  Hi there, my name is Antoniel 👋 </h1>
+</div>
 
 <h3>- :man_technologist: I’m currently working on System analyst</h3>
 <h3>- :books: I’m currently learning C#, .NET and Python</h3>
