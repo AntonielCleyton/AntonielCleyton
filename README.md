@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>  Hi there, my name is Antoniel 👋 </h1>
+  <h1>Data Scientist</h1>
+  <h2>My name is Antoniel</h2>
 </div>
 
 <h3>- :man_technologist: I’m currently working on System analyst</h3>
