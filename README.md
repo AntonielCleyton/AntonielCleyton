@@ -47,6 +47,7 @@
   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/color/48/000000/anydesk.png">
   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/fluency/48/000000/teamviewer.png">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/ios-filled/50/000000/keepass.png">
 </div>
 
   
