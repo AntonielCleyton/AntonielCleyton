@@ -1,8 +1,8 @@
 <h1>  Hi there, my name is Antoniel 👋 </h1>
 
-- :man_technologist: I’m currently working on System analyst
-- :books: I’m currently learning C#, .NET and Python
-- :brazil:  I'm from Brazil
+<h3>- :man_technologist: I’m currently working on System analyst</h3>
+<h3>- :books: I’m currently learning C#, .NET and Python</h3>
+<h3>- :brazil:  I'm from Brazil</h3>
 
 <div>
   <a href="https://github.com/AntonielCleyton">
