@@ -2,7 +2,7 @@
 
 - :man_technologist: I’m currently working on System analyst
 - :books: I’m currently learning C#, .NET and Python
-- :brazil: I'm from Brazil
+- :brazil:  I'm from Brazil
 
 <div>
   <a href="https://github.com/AntonielCleyton">
