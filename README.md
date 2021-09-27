@@ -34,20 +34,19 @@
 </div>
 
 ## IT tools
-   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
-</div>
-   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
-</div>
+<div>
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-</div>
   <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-<img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-</div>
-<img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-</div>
-<img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
-<img align="center" alt="Cleyton-Oracle" height="50" width="60" <img src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/fluency/48/000000/sublime-text.png">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/color/48/000000/notepad-plus-plus.png">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/color/48/000000/anydesk.png">
+  <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://img.icons8.com/fluency/48/000000/teamviewer.png">
 </div>
 
   
