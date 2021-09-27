@@ -47,6 +47,7 @@
 <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 <img align="center" alt="Cleyton-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">
+<img align="center" alt="Cleyton-Oracle" height="50" width="60" <img src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
   
