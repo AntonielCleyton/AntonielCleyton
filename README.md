@@ -10,7 +10,6 @@
 </div>
 <hr size="10" width="100%">
 <div align="center">
-  <h2 align="center">Overview</h2>
   <a href="https://github.com/AntonielCleyton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonielCleyton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
