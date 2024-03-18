@@ -51,4 +51,11 @@
 
 </div>
 
+![Snake animation](https://github.com/AntonielCleyton/AntonielCleyton/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-redme-stats.vercel.app/api/pin/?username=AntonielCleyton&repo=AntonielCleyton&theme=react)](https://github.com/AntonielCleyton/AntonielCleyton)
+
+
+
+
 
