@@ -26,10 +26,19 @@
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+
+### Currículo e Portfólio
+
+[![Currículo](https://img.shields.io/badge/-Currículo-000?&logo=adobe-acrobat-reader)](link_para_seu_curriculo.pdf)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?&logo=adobe-creative-cloud)](link_para_seu_portfolio)
+
 ### Contato
 
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:antonielcbs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/antonielcleyton/)
+
+
+
 
 </div>
 
