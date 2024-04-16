@@ -54,7 +54,12 @@
 
 </div>
 
-![snake gif](https://github.com/AntonielCleyton/AntonielCleyton/blob/output/github-contribution-grid-snake.gif)
+</div>
+ <br>
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonielCleyton}/count.svg" /></p> 
+<br></div>
 
 
 
