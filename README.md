@@ -1,12 +1,31 @@
-![AntonielCleyton-ezgif com-animated-gif-maker](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/9d1c6d41-25db-4dd2-8a30-311813a1c6fa)
+# Hey there ✨
 
-## My Github Stats
+<img src="https://github.com/AntonielCleyton/AntonielCleyton/raw/main/assets/63554417/9d1c6d41-25db-4dd2-8a30-311813a1c6fa/northern-lights.gif" align="right" width="400"/>
+
+
+My name is Antonie**
+\
+\
+📱 I've been working as QA Engineer for the last 4 years and currently I'm working with Mobile Automation with Appium and TS\
+📚 The last year I developed at least 10 projects (web and API) with [Playwright](https://playwright.dev/)\
+🔮 I already worked and I really like [Ruby](https://www.ruby-lang.org/pt/) language\
+🎨 I really like the design area too\
+🌵 In my free time I take care of my plants and watch series
+
+
+#### Do you need some help with QA and Automation?
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/) [![Email Badge](https://img.shields.io/badge/Email-emanuele4dev@gmail.com-blueviolet)](mailto:antonieldbms@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@CleytonSantos-blueviolet)](https://t.me/CleytonSantos)
+
+
+## My github stats
 
 <div align="center">
   <a href="https://github.com/AntonielCleyton">
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonielCleyton&show_icons=true&count_private=true&line_height=30&theme=dark"/>
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&theme=dark"/>
 </div>
+
 
 <div align="center">
 
