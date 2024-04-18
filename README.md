@@ -1,4 +1,5 @@
-![AntonielCleyton-ezgif com-animated-gif-maker](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/8a3f7e57-51c8-4a8d-b4d5-e06d6311a18a)
+![AntonielCleyton-ezgif com-animated-gif-maker](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/9d1c6d41-25db-4dd2-8a30-311813a1c6fa)
+
 
 <div align="center">
 
@@ -75,7 +76,7 @@
 </div>
  <br>
 <div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<br><p align="centre"><b>Visitor Counter</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonielCleyton}/count.svg" /></p> 
 <br></div>
 
