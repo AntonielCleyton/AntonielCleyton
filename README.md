@@ -69,7 +69,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
 
-![AntonielCleyton's Stats](https://github-readme-stats.vercel.app/api?username=AntonielCleyton&theme=dark&show_icons=true&hide_border=true&count_private=true)
+## My Github Stats
+
+<div align="center">
+  <a href="https://github.com/AntonielCleyton">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonielCleyton&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&theme=dark"/>
+</div>
 
 </div>
 
