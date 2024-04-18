@@ -1,6 +1,6 @@
 # Hey there ✨
 
-<img src="https://github.com/AntonielCleyton/AntonielCleyton/raw/main/assets/63554417/9d1c6d41-25db-4dd2-8a30-311813a1c6fa/northern-lights.gif" align="right" width="400"/>
+<img src="Antoniel.gif" align="right" width="400"/>
 
 
 My name is Antonie**
