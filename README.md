@@ -1,9 +1,5 @@
-<div align="center">
 
-![Antoniel](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/a6da6c96-af63-4249-b839-95e6af78872d)
-
-
-</div>
+![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/1a5960a2-cd1c-44de-98ed-82f31cc80090)
 
 <div align="center">
   <a href="https://github.com/AntonielCleyton">
@@ -14,15 +10,11 @@
 
 <div align="center">
 
-### Languages
+### Main Technologies used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-
-
-### Technologies and Libraries
-
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
@@ -31,28 +23,16 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Office](https://img.shields.io/badge/Office_365-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
-
-### Libraries and Frameworks
-
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Database
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Operational systems
-
 ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge)
-
-### Virtualization
-
 ![VMWare](https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
