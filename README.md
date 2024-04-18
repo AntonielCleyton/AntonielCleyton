@@ -7,9 +7,17 @@
   <img height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&theme=dark"/>
 </div>
 
-
+<hr>
 <div align="center">
-
+  <h3>About me</h3>
+</div>
+<div align="center">
+  <br>👨‍💻 Systems Development Analyst at Grupo Santa.</br>
+  <br>👨‍🎓 Specialized in Computer Networks at UEG and Postgraduate in BigData with Databases at UFG</br>
+  <br>🎯 Interest: Html, Css, JavaScript, Python, AWS, Docker Machine Learning and Data Science.</br>
+</div>
+<div align="center">
+<hr>
 ### Main Technologies used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
