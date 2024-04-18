@@ -1,4 +1,8 @@
-![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/5ffdc243-63af-48a3-8d96-4f0408726742)
+<div align="center">
+  
+![Antoniel](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/b6aa9f74-9f33-45fd-a75d-7cc2748e3374)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/AntonielCleyton">
