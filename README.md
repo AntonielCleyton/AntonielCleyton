@@ -1,24 +1,33 @@
-# Hey there ✨
+<div align="center">
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
+
+
+</div>
 
 <img src="Antoniel.gif" align="right" width="400"/>
 
 
-My name is Antonie**
+My name is Antoniel
 \
 \
-📱 I've been working as QA Engineer for the last 4 years and currently I'm working with Mobile Automation with Appium and TS\
-📚 The last year I developed at least 10 projects (web and API) with [Playwright](https://playwright.dev/)\
-🔮 I already worked and I really like [Ruby](https://www.ruby-lang.org/pt/) language\
-🎨 I really like the design area too\
-🌵 In my free time I take care of my plants and watch series
+📱 I have worked as a Systems Development Analyst for 4 years.<p>
+📚 In recent years I have been studying Python and Web Development a lot.<p>
+🎲 I've worked with Data Analysis and processing, an area that I find very interesting.<p>
+☯ In my free time I like to exercise and watch anime.<p>
 
 
 #### Do you need some help with QA and Automation?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/) [![Email Badge](https://img.shields.io/badge/Email-emanuele4dev@gmail.com-blueviolet)](mailto:antonieldbms@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@CleytonSantos-blueviolet)](https://t.me/CleytonSantos)
 
+<div align="center">
+  
+My github stats
 
-## My github stats
+
+</div>
 
 <div align="center">
   <a href="https://github.com/AntonielCleyton">
@@ -90,13 +99,7 @@ My name is Antonie**
 
 <!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head><body><div id="chat-container"><div class="message"><p></p></div><hr><div class="message"><p></p></div></div></body></html>
 
-<div align="center">
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
-
-
-</div>
 
 </div>
  <br>
