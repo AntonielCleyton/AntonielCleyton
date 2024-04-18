@@ -60,7 +60,6 @@
 </div>
 
 </div>
- <br>
 <div align="center">
 <br><p align="centre"><h3>Visitor Counter</h3></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonielCleyton}/count.svg" /></p> 
