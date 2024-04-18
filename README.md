@@ -1,6 +1,7 @@
 <div align="center">
 
-![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/d73faa3a-b295-414d-aa95-bbcd23b18317)
+![Antoniel](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/a6da6c96-af63-4249-b839-95e6af78872d)
+
 
 </div>
 
