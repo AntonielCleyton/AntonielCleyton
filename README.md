@@ -18,7 +18,8 @@
 </div>
 <div align="center">
 <hr>
-### Main Technologies used
+  
+<h3>Main Technologies used</h3> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
