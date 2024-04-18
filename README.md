@@ -4,38 +4,56 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-### Tecnologias
 
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=target)
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
-![Power BI](https://img.shields.io/badge/-Power_BI-000?&logo=Power-BI)
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel)
+### Technologies and Libraries
+
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![WooCommerce](https://img.shields.io/badge/Woo_Commerce-96588A?logo=woo&logoColor=white&style=for-the-badge)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Office](https://img.shields.io/badge/Office_365-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
+
+### Libraries and Frameworks
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Oracle Developer](https://img.shields.io/badge/-Oracle_Developer-000?&logo=Oracle)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Sistemas Operacionais
+### Operational systems
 
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge)
+
+### Virtualization
+
+![VMWare](https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge)
+![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 
-### Currículo e Portfólio
+### CV and Portfolio
 
-[![Currículo](https://img.shields.io/badge/-Currículo-000?&logo=adobe-acrobat-reader)](link_para_seu_curriculo.pdf)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?&logo=adobe-creative-cloud)](link_para_seu_portfolio)
+[![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](link_para_seu_portfolio)
 
-### Contato
+### Contact
 
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:antonielcbs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/antonielcleyton/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:antonielcbs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonielcleyton/)
 
 
 
