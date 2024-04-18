@@ -55,12 +55,14 @@
 
 <!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head><body><div id="chat-container"><div class="message"><p></p></div><hr><div class="message"><p></p></div></div></body></html>
 
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
+</div>
 
 </div>
  <br>
 <div align="center">
-<br><p align="centre"><b>Visitor Counter</b></p>  
+<br><p align="centre"><h3>Visitor Counter</h3></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonielCleyton}/count.svg" /></p> 
 <br></div>
 
