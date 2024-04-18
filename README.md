@@ -1,33 +1,10 @@
 <div align="center">
-
-
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
 
-
 </div>
 
-<img src="Antoniel.gif" align="right" width="400"/>
-
-
-My name is Antoniel
-\
-\
-📱 I have worked as a Systems Development Analyst for 4 years.<p>
-📚 In recent years I have been studying Python and Web Development a lot.<p>
-🎲 I've worked with Data Analysis and processing, an area that I find very interesting.<p>
-☯ In my free time I like to exercise and watch anime.<p>
-
-
-#### Do you need some help with QA and Automation?
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/) [![Email Badge](https://img.shields.io/badge/Email-emanuele4dev@gmail.com-blueviolet)](mailto:antonieldbms@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@CleytonSantos-blueviolet)](https://t.me/CleytonSantos)
-
-<div align="center">
-  
-My github stats
-
-
-</div>
+![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/5ffdc243-63af-48a3-8d96-4f0408726742)
 
 <div align="center">
   <a href="https://github.com/AntonielCleyton">
