@@ -42,15 +42,13 @@
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 
-### CV and Portfolio
-
-[![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/) (Clique com o botão direito e selecione "Abrir link em uma nova aba")
-[![Portfólio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://antonielcleyton.github.io/) (Clique com o botão direito e selecione "Abrir link em uma nova aba")
+[![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://antonielcleyton.github.io/)
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:antonielcbs@gmail.com) (Clique com o botão direito e selecione "Abrir link em uma nova aba")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonielcleyton/) (Clique com o botão direito e selecione "Abrir link em uma nova aba")
+[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:antonielcbs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonielcleyton/)
 
 
 
