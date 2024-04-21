@@ -1,12 +1,6 @@
 
 ![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/1a5960a2-cd1c-44de-98ed-82f31cc80090)
 
-<div align="center">
-  <a href="https://github.com/AntonielCleyton">
-  <img height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonielCleyton&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&theme=dark"/>
-</div>
-
 <hr>
 <div align="center">
   <h3>About me</h3>
