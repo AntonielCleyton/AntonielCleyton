@@ -47,6 +47,7 @@
 ![VMWare](https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
+<h3>CV and Portfolio</h3> 
 
 [![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/)
 [![Portfólio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://antonielcleyton.github.io/)
