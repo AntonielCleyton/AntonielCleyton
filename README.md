@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/AntonielCleyton">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonielCleyton&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonielCleyton&show_icons=true&count_private=true&line_height=80&theme=dark"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&theme=dark"/>
 </div>
 
