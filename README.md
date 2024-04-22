@@ -49,7 +49,7 @@
 
 <h3>CV and Portfolio</h3> 
 
-[![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.linkedin.com/in/antonielcleyton/)
+[![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1YWBcYR7_En8IVM5vl34XMoLiyHQHJ6Og/view?usp=sharing)
 [![Portfólio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://antonielcleyton.github.io/)
 
 ### Contact
