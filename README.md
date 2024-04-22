@@ -1,11 +1,15 @@
 
 ![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/1a5960a2-cd1c-44de-98ed-82f31cc80090)
 
-<div align="center">
-  <a href="https://github.com/AntonielCleyton">
-  <img height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonielCleyton&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&theme=dark"/>
-</div>
+
+<p align="center">
+    <a href="https://github.com/AntonielCleyton/">
+        <img src="https://github-readme-stats.vercel.app/api?username=AntonielCleyton&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+    <a href="https://github.com/AntonielCleyton/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonielCleyton&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+</p>
 
 <hr>
 <div align="center">
