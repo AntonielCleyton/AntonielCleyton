@@ -20,7 +20,7 @@
 <div align="center">
   <br>👨‍💻 Systems Development Analyst at Grupo Santa.</br>
   <br>👨‍🎓 Graduated in Computer Networks at UEG and Postgraduate in BigData with Databases at UFG</br>
-  <br>🎯 Interest: Html, Css, JavaScript, Python, AWS, Docker Machine Learning and Data Science.</br>
+  <br>🎯 Interest: Html, Css, JavaScript, Python, AWS, Docker, Machine Learning and Data Science.</br>
 </div>
 <div align="center">
 <hr>
