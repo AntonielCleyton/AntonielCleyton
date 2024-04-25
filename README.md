@@ -32,6 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![WooCommerce](https://img.shields.io/badge/Woo_Commerce-96588A?logo=woo&logoColor=white&style=for-the-badge)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
