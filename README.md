@@ -2,6 +2,8 @@
 ![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/1a5960a2-cd1c-44de-98ed-82f31cc80090)
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
     <a href="https://github.com/AntonielCleyton/">
         <img height="145em" style="width: 380px;" src="https://github-readme-stats.vercel.app/api?username=AntonielCleyton&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
@@ -25,7 +27,8 @@
 
 
 <!-- Habilidades e ferramentas -->
-## My Skills
+### 🛠 &nbsp; My Skills
+<hr>
 
 #### Main Stack:
 
