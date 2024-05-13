@@ -23,7 +23,7 @@
 <div align="center">
   <br>👨‍💻 Systems Development Analyst at Grupo Santa.</br>
   <br>👨‍🎓 Graduated in Computer Networks at UEG and Postgraduate in BigData with Databases at UFG</br>
-  <br>🎯 Interest: Html, Css, JavaScript, Python, AWS, Docker, Machine Learning and Data Science.</br>
+  <br>🎯 Interest: Python, AWS, Docker, Machine Learning and Data Science.</br>
 </div>
 
 
@@ -34,8 +34,6 @@
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/NodeJS-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -43,7 +41,6 @@
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -51,8 +48,6 @@
 
 #### Other skills:
 
-![Wordpress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
-![WooCommerce](https://img.shields.io/badge/Woo_Commerce-96588A?logo=woo&logoColor=white&style=for-the-badge)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
@@ -70,7 +65,6 @@
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 #### Studying in this moment:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
