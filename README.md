@@ -1,5 +1,5 @@
 
-![Antoniel Cleyton](https://github.com/AntonielCleyton/AntonielCleyton/assets/63554417/1a5960a2-cd1c-44de-98ed-82f31cc80090)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
