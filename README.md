@@ -22,9 +22,9 @@
   <h3>About me</h3>
 </div>
 <div align="center">
-  <br>👨‍💻 Systems Development Analyst at Grupo Santa.</br>
+  <br>👨‍💻 Python Backend Developer at Grupo Santri.</br>
   <br>👨‍🎓 Graduated in Computer Networks at UEG and Postgraduate in BigData with Databases at UFG</br>
-  <br>🎯 Interest: Python, AWS, Docker, Machine Learning and Data Science.</br>
+  <br>🎯 Interest: Python, AWS, Docker, Kubernets and Machine Learning.</br>
 </div>
 
 
