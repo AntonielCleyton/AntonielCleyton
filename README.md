@@ -1,6 +1,21 @@
+<div align="center" style="
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #111, #222);
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+    font-family: Arial, sans-serif;
+">
+
+  <h1 style="font-size: 28px; margin-bottom: 5px;">Antoniel Cleyton</h1>
+  <p style="font-size: 18px; color: #bbb; margin-top: 0;">Backend Developer</p>
+
+</div>
 
 
-![banner](https://github.com/user-attachments/assets/5706544c-11ce-4623-b6f0-b73d60c8b151)
 
 
 
