@@ -99,10 +99,6 @@
   <a href="https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
     <span style="background-color: red; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">📑 CV</span>
   </a>
-
-  <a href="https://antonielcleyton.github.io/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;" style="margin-left: 15px;">
-    <span style="background-color: #F38020; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">🌐 Portfolio</span>
-  </a>
 </p>
 
 ---
