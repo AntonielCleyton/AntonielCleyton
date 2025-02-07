@@ -34,15 +34,16 @@
 
 #### Main Stack:
 
-<a style="pointer-events: none; cursor: default;">
-  <img src="img/python.png" alt="Python" height="28">
-</a>
-<a style="pointer-events: none; cursor: default;">
-  <img src="img/html.png" alt="HTML" height="28">
-</a>
-<a style="pointer-events: none; cursor: default;">
-  <img src="img/css.png" alt="CSS" height="28">
-</a>
+<div style="display: flex; gap: 10px;">
+
+  <div style="width: 120px; height: 28px; background-image: url('img/python.png'); background-size: contain; background-repeat: no-repeat;"></div>
+
+  <div style="width: 120px; height: 28px; background-image: url('img/html.png'); background-size: contain; background-repeat: no-repeat;"></div>
+
+  <div style="width: 120px; height: 28px; background-image: url('img/css.png'); background-size: contain; background-repeat: no-repeat;"></div>
+
+</div>
+
 
 
 
