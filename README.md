@@ -36,27 +36,27 @@
 
 <div style="display: flex; gap: 10px;">
 
-  <img src="img/python.png" alt="Python" height="28" style="pointer-events: none; user-select: none;">
-  <img src="img/html.png" alt="HTML" height="28" style="pointer-events: none; user-select: none;">
-  <img src="img/css.png" alt="CSS" height="28" style="pointer-events: none; user-select: none;">
+  <span style="background-color: #3776AB; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐍 PYTHON</span>
+
+  <span style="background-color: #E34F26; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🌐 HTML</span>
+
+  <span style="background-color: #1572B6; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🎨 CSS</span>
 
 </div>
-
-
-
-
-
 
 <img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
-<div style="display: flex; gap: 5px; pointer-events: none;">
+<div style="display: flex; gap: 10px;">
 
-  <img src="img/postgresql.png" alt="PostgreSQL" height="28">
-  <img src="img/mysql.png" alt="MySQL" height="28">
-  <img src="img/sqllite.png" alt="SQLite" height="28">
-  <img src="img/oracle.png" alt="Oracle" height="28">
+  <span style="background-color: #336791; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐘 PostgreSQL</span>
+
+  <span style="background-color: #4479A1; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐬 MySQL</span>
+
+  <span style="background-color: #003B57; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🛢 SQLite</span>
+
+  <span style="background-color: #F80000; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🔥 Oracle</span>
 
 </div>
 
