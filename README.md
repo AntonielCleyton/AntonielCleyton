@@ -42,8 +42,6 @@
   </tr>
 </table>
 
-<img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
-
 #### Databases:
 
 <table>
