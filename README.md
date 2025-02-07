@@ -36,13 +36,12 @@
 
 <div style="display: flex; gap: 10px;">
 
-  <div style="width: 120px; height: 28px; background-image: url('img/python.png'); background-size: contain; background-repeat: no-repeat;"></div>
-
-  <div style="width: 120px; height: 28px; background-image: url('img/html.png'); background-size: contain; background-repeat: no-repeat;"></div>
-
-  <div style="width: 120px; height: 28px; background-image: url('img/css.png'); background-size: contain; background-repeat: no-repeat;"></div>
+  <img src="img/python.png" alt="Python" height="28" style="pointer-events: none;">
+  <img src="img/html.png" alt="HTML" height="28" style="pointer-events: none;">
+  <img src="img/css.png" alt="CSS" height="28" style="pointer-events: none;">
 
 </div>
+
 
 
 
