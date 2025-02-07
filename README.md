@@ -34,7 +34,7 @@
 
 #### Main Stack:
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
   <span style="background-color: #3776AB; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐍 PYTHON</span>
 
@@ -48,7 +48,7 @@
 
 #### Databases:
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
   <span style="background-color: #336791; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐘 PostgreSQL</span>
 
@@ -62,24 +62,31 @@
 
 #### Workstation tools and Operational systems:
 
-<div style="display: flex; gap: 5px; pointer-events: none;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-  <img src="img/pycharm.png" alt="PyCharm" height="28">
-  <img src="img/vscode.png" alt="VS Code" height="28">
-  <img src="img/windows.png" alt="Windows" height="28">
-  <img src="img/linux.png" alt="Linux" height="28">
-  <img src="img/vmware.png" alt="VMWare" height="28">
-  <img src="img/virtualbox.png" alt="VirtualBox" height="28">
+  <span style="background-color: #14354C; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🖥️ PyCharm</span>
+
+  <span style="background-color: #007ACC; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">📝 VS Code</span>
+
+  <span style="background-color: #017AD7; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🪟 Windows</span>
+
+  <span style="background-color: #FCC624; color: black; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐧 Linux</span>
+
+  <span style="background-color: #607078; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">☁️ VMWare</span>
+
+  <span style="background-color: #183A61; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">📦 VirtualBox</span>
 
 </div>
 
 #### Studying in this moment:
 
-<div style="display: flex; gap: 5px; pointer-events: none;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-  <img src="img/django.png" alt="Django" height="28">
-  <img src="img/flask.png" alt="Flask" height="28">
-  <img src="img/aws.png" alt="AWS" height="28">
+  <span style="background-color: #092E20; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🌿 Django</span>
+
+  <span style="background-color: #000000; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🍶 Flask</span>
+
+  <span style="background-color: #FF9900; color: white; padding: 6px 12px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">☁️ AWS</span>
 
 </div>
 
