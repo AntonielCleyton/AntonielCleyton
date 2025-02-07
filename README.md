@@ -34,13 +34,14 @@
 
 #### Main Stack:
 
-<div style="display: flex; gap: 5px; pointer-events: none;">
+<div style="display: flex; gap: 5px;">
 
-  <img src="img/python.png" alt="Python" height="28">
-  <img src="img/html.png" alt="HTML" height="28">
-  <img src="img/css.png" alt="CSS" height="28">
+  <span style="background-image: url('img/python.png'); width: 100px; height: 28px; display: inline-block; background-size: contain; background-repeat: no-repeat;"></span>
+  <span style="background-image: url('img/html.png'); width: 100px; height: 28px; display: inline-block; background-size: contain; background-repeat: no-repeat;"></span>
+  <span style="background-image: url('img/css.png'); width: 100px; height: 28px; display: inline-block; background-size: contain; background-repeat: no-repeat;"></span>
 
 </div>
+
 
 <img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
 
