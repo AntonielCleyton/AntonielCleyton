@@ -34,33 +34,49 @@
 
 #### Main Stack:
 
-<img src="img/python.svg" alt="Python" height="28">
-<img src="img/html.svg" alt="HTML" height="28">
-<img src="img/css.svg" alt="CSS" height="28">
+<div style="display: flex; gap: 5px; pointer-events: none;">
+
+  <img src="img/python.png" alt="Python" height="28">
+  <img src="img/html.png" alt="HTML" height="28">
+  <img src="img/css.png" alt="CSS" height="28">
+
+</div>
 
 <img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
-<img src="img/postgresql.svg" alt="PostgreSQL" height="28">
-<img src="img/mysql.svg" alt="MySQL" height="28">
-<img src="img/sqlite.svg" alt="SQLite" height="28">
-<img src="img/oracle.svg" alt="Oracle" height="28">
+<div style="display: flex; gap: 5px; pointer-events: none;">
+
+  <img src="img/postgresql.png" alt="PostgreSQL" height="28">
+  <img src="img/mysql.png" alt="MySQL" height="28">
+  <img src="img/sqllite.png" alt="SQLite" height="28">
+  <img src="img/oracle.png" alt="Oracle" height="28">
+
+</div>
 
 #### Workstation tools and Operational systems:
 
-<img src="img/pycharm.svg" alt="PyCharm" height="28">
-<img src="img/vscode.svg" alt="VS Code" height="28">
-<img src="img/windows.svg" alt="Windows" height="28">
-<img src="img/linux.svg" alt="Linux" height="28">
-<img src="img/vmware.svg" alt="VMWare" height="28">
-<img src="img/virtualbox.svg" alt="VirtualBox" height="28">
+<div style="display: flex; gap: 5px; pointer-events: none;">
+
+  <img src="img/pycharm.png" alt="PyCharm" height="28">
+  <img src="img/vscode.png" alt="VS Code" height="28">
+  <img src="img/windows.png" alt="Windows" height="28">
+  <img src="img/linux.png" alt="Linux" height="28">
+  <img src="img/vmware.png" alt="VMWare" height="28">
+  <img src="img/virtualbox.png" alt="VirtualBox" height="28">
+
+</div>
 
 #### Studying in this moment:
 
-<img src="img/django.svg" alt="Django" height="28">
-<img src="img/flask.svg" alt="Flask" height="28">
-<img src="img/aws.svg" alt="AWS" height="28">
+<div style="display: flex; gap: 5px; pointer-events: none;">
+
+  <img src="img/django.png" alt="Django" height="28">
+  <img src="img/flask.png" alt="Flask" height="28">
+  <img src="img/aws.png" alt="AWS" height="28">
+
+</div>
 
 
 
