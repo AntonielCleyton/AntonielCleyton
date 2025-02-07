@@ -34,62 +34,49 @@
 
 #### Main Stack:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: flex-start;">
-
-  <span style="background-color: #3776AB; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🐍 PYTHON</span>
-
-  <span style="background-color: #E34F26; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🌐 HTML</span>
-
-  <span style="background-color: #1572B6; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🎨 CSS</span>
-
-</div>
+<table>
+  <tr>
+    <td style="background-color: #3776AB; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐍 PYTHON</td>
+    <td style="background-color: #E34F26; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🌐 HTML</td>
+    <td style="background-color: #1572B6; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🎨 CSS</td>
+  </tr>
+</table>
 
 <img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: flex-start;">
-
-  <span style="background-color: #336791; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🐘 PostgreSQL</span>
-
-  <span style="background-color: #4479A1; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🐬 MySQL</span>
-
-  <span style="background-color: #003B57; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🛢 SQLite</span>
-
-  <span style="background-color: #F80000; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🔥 Oracle</span>
-
-</div>
+<table>
+  <tr>
+    <td style="background-color: #336791; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐘 PostgreSQL</td>
+    <td style="background-color: #4479A1; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐬 MySQL</td>
+    <td style="background-color: #003B57; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🛢 SQLite</td>
+    <td style="background-color: #F80000; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🔥 Oracle</td>
+  </tr>
+</table>
 
 #### Workstation tools and Operational systems:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: flex-start;">
-
-  <span style="background-color: #14354C; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🖥️ PyCharm</span>
-
-  <span style="background-color: #007ACC; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">📝 VS Code</span>
-
-  <span style="background-color: #017AD7; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🪟 Windows</span>
-
-  <span style="background-color: #FCC624; color: black; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🐧 Linux</span>
-
-  <span style="background-color: #607078; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">☁️ VMWare</span>
-
-  <span style="background-color: #183A61; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">📦 VirtualBox</span>
-
-</div>
+<table>
+  <tr>
+    <td style="background-color: #14354C; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🖥️ PyCharm</td>
+    <td style="background-color: #007ACC; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">📝 VS Code</td>
+    <td style="background-color: #017AD7; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🪟 Windows</td>
+    <td style="background-color: #FCC624; color: black; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🐧 Linux</td>
+    <td style="background-color: #607078; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">☁️ VMWare</td>
+    <td style="background-color: #183A61; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">📦 VirtualBox</td>
+  </tr>
+</table>
 
 #### Studying in this moment:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: flex-start;">
-
-  <span style="background-color: #092E20; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🌿 Django</span>
-
-  <span style="background-color: #000000; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">🍶 Flask</span>
-
-  <span style="background-color: #FF9900; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">☁️ AWS</span>
-
-</div>
-
+<table>
+  <tr>
+    <td style="background-color: #092E20; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🌿 Django</td>
+    <td style="background-color: #000000; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">🍶 Flask</td>
+    <td style="background-color: #FF9900; color: white; padding: 6px 15px; border-radius: 5px; font-weight: bold; font-family: Arial, sans-serif;">☁️ AWS</td>
+  </tr>
+</table>
 
 <div align="center">
 <hr>
