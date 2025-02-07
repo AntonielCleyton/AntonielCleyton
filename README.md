@@ -93,7 +93,7 @@
 
 ---
 
-### 📄 CV and Portfolio
+### 📄 CV
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
