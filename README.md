@@ -91,28 +91,4 @@
   </tr>
 </table>
 
----
-
-### 📄 CV
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
-    <span style="background-color: red; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">📑 CV</span>
-  </a>
-</p>
-
----
-### 📬 Contact
-
-<p align="center">
-  <a href="mailto:antonielcbs@gmail.com" target="_blank" rel="noopener noreferrer">
-    <span style="display: inline-block; background-color: #EA4335; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">✉️ Gmail</span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/antonielcleyton/" target="_blank" rel="noopener noreferrer" style="margin-left: 15px;">
-    <span style="display: inline-block; background-color: #0A66C2; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">🔗 LinkedIn</span>
-  </a>
-</p>
-
-
 
