@@ -34,13 +34,15 @@
 
 #### Main Stack:
 
-<div style="display: flex; gap: 5px;">
-
-  <img src="img/python.png" alt="Python" height="28" style="pointer-events: none; user-select: none;">
-  <img src="img/html.png" alt="HTML" height="28" style="pointer-events: none; user-select: none;">
-  <img src="img/css.png" alt="CSS" height="28" style="pointer-events: none; user-select: none;">
-
-</div>
+<a style="pointer-events: none; cursor: default;">
+  <img src="img/python.png" alt="Python" height="28">
+</a>
+<a style="pointer-events: none; cursor: default;">
+  <img src="img/html.png" alt="HTML" height="28">
+</a>
+<a style="pointer-events: none; cursor: default;">
+  <img src="img/css.png" alt="CSS" height="28">
+</a>
 
 
 
