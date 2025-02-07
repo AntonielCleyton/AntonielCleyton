@@ -36,11 +36,12 @@
 
 <div style="display: flex; gap: 5px;">
 
-  <span style="background-image: url('img/python.png'); width: 100px; height: 28px; display: inline-block; background-size: contain; background-repeat: no-repeat;"></span>
-  <span style="background-image: url('img/html.png'); width: 100px; height: 28px; display: inline-block; background-size: contain; background-repeat: no-repeat;"></span>
-  <span style="background-image: url('img/css.png'); width: 100px; height: 28px; display: inline-block; background-size: contain; background-repeat: no-repeat;"></span>
+  <img src="img/python.png" alt="Python" height="28" style="pointer-events: none; user-select: none;">
+  <img src="img/html.png" alt="HTML" height="28" style="pointer-events: none; user-select: none;">
+  <img src="img/css.png" alt="CSS" height="28" style="pointer-events: none; user-select: none;">
 
 </div>
+
 
 
 <img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
