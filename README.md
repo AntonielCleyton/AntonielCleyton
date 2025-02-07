@@ -91,40 +91,33 @@
   </tr>
 </table>
 
-<div align="center" style="
-    background-color: black;
-    padding: 20px;
-    border-radius: 10px;
-    color: white;
-    width: 100%;
-    max-width: 800px;
-">
+---
 
-  <h3 style="color: white;">📄 CV and Portfolio</h3>
+### 📄 CV and Portfolio
 
-  <a href="https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing" target="_blank" style="text-decoration: none;">
-    <span style="background-color: red; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">📑 CV</span>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <span style="background-color: red; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">📑 CV</span>
   </a>
 
-  <a href="https://antonielcleyton.github.io/" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <span style="background-color: #F38020; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">🌐 Portfolio</span>
+  <a href="https://antonielcleyton.github.io/" target="_blank" rel="noopener noreferrer" style="margin-left: 15px;">
+    <span style="background-color: #F38020; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">🌐 Portfolio</span>
+  </a>
+</p>
+
+---
+
+### 📬 Contact
+
+<p align="center">
+  <a href="mailto:antonielcbs@gmail.com" target="_blank" rel="noopener noreferrer">
+    <span style="background-color: #EA4335; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">✉️ Gmail</span>
   </a>
 
-  <br><br>
-  
-  <h3 style="color: white;">📬 Contact</h3>
-
-  <a href="mailto:antonielcbs@gmail.com" target="_blank" style="text-decoration: none;">
-    <span style="background-color: #EA4335; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">✉️ Gmail</span>
+  <a href="https://www.linkedin.com/in/antonielcleyton/" target="_blank" rel="noopener noreferrer" style="margin-left: 15px;">
+    <span style="background-color: #0A66C2; color: white; padding: 10px 18px; border-radius: 5px; font-weight: bold;">🔗 LinkedIn</span>
   </a>
-
-  <a href="https://www.linkedin.com/in/antonielcleyton/" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <span style="background-color: #0A66C2; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">🔗 LinkedIn</span>
-  </a>
-
-</div>
-
-
+</p>
 
 
 
