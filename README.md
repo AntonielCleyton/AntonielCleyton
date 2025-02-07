@@ -11,7 +11,7 @@
 ">
 
   <h1 style="font-size: 28px; margin-bottom: 5px;">Antoniel Cleyton</h1>
-  <p style="font-size: 18px; color: #bbb; margin-top: 0;">Backend Developer</p>
+  <h2 style="font-size: 18px; color: #bbb; margin-top: 0;">Backend Developer</h>
 
 </div>
 
