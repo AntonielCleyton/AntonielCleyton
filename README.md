@@ -91,34 +91,38 @@
   </tr>
 </table>
 
-<div align="center">
-<hr>
+<div align="center" style="
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    width: 100%;
+    max-width: 800px;
+">
+
+  <h3 style="color: white;">📄 CV and Portfolio</h3>
+
+  <a href="https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <span style="background-color: red; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">📑 CV</span>
+  </a>
+
+  <a href="https://antonielcleyton.github.io/" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    <span style="background-color: #F38020; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">🌐 Portfolio</span>
+  </a>
+
+  <br><br>
   
+  <h3 style="color: white;">📬 Contact</h3>
 
-<h3>CV and Portfolio</h3> 
+  <a href="mailto:antonielcbs@gmail.com" target="_blank" style="text-decoration: none;">
+    <span style="background-color: #EA4335; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">✉️ Gmail</span>
+  </a>
 
-[![Curriculo](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1czy9NkXW0HzVSwaWK0hc3BmAfAOPy6md/view?usp=sharing)
-[![Portfólio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://antonielcleyton.github.io/)
-
-### Contact
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:antonielcbs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonielcleyton/)
-
-
-
-
-
+  <a href="https://www.linkedin.com/in/antonielcleyton/" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    <span style="background-color: #0A66C2; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold;">🔗 LinkedIn</span>
+  </a>
 
 </div>
-
-
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head><body><div id="chat-container"><div class="message"><p></p></div><hr><div class="message"><p></p></div></div></body></html>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
-</div>
-
 
 
 
