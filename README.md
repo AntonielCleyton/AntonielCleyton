@@ -34,32 +34,33 @@
 
 #### Main Stack:
 
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<img src="img/python.svg" alt="Python" height="28">
+<img src="img/html.svg" alt="HTML" height="28">
+<img src="img/css.svg" alt="CSS" height="28">
 
 <img src="img/antonieldev.png" min-width="400px" max-width="600px" width="600px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="img/postgresql.svg" alt="PostgreSQL" height="28">
+<img src="img/mysql.svg" alt="MySQL" height="28">
+<img src="img/sqlite.svg" alt="SQLite" height="28">
+<img src="img/oracle.svg" alt="Oracle" height="28">
 
 #### Workstation tools and Operational systems:
 
-![PyCharm](https://img.shields.io/badge/PyCharm-14354C?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge)
-![VMWare](https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge)
-![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+<img src="img/pycharm.svg" alt="PyCharm" height="28">
+<img src="img/vscode.svg" alt="VS Code" height="28">
+<img src="img/windows.svg" alt="Windows" height="28">
+<img src="img/linux.svg" alt="Linux" height="28">
+<img src="img/vmware.svg" alt="VMWare" height="28">
+<img src="img/virtualbox.svg" alt="VirtualBox" height="28">
 
 #### Studying in this moment:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<img src="img/django.svg" alt="Django" height="28">
+<img src="img/flask.svg" alt="Flask" height="28">
+<img src="img/aws.svg" alt="AWS" height="28">
 
 
 
